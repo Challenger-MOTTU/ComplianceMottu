@@ -1,22 +1,27 @@
-README - MotoGrid
-📋 Sobre o Projeto
-Este repositório contém o desenho técnico da visão da arquitetura e arquitetura de negócio da solução MotoGrid, desenvolvido com a ferramenta Archi e AzureBoards.
+🏍️ MotoGrid - Sistema de Gestão para Concessionária de Motos
+📋 Descrição do Projeto
+O MotoGrid é uma solução inovadora desenvolvida para otimizar e modernizar a gestão de concessionárias de motocicletas. Este repositório contém a documentação técnica completa do projeto, incluindo arquitetura, design técnico e especificações de qualidade.
 
-📂 Estrutura
-Os arquivos do desenho técnico estão organizados na branch develop, dentro da pasta Desenho Tecnico e acesso ao AzureBoards através da pasta Azure.
+🏗️ Arquitetura e Design
+📐 Desenho Técnico
+Localização: Pasta Desenho Tecnico/ na branch develop
+
+Ferramenta: Desenvolvido com Archi para modelagem arquitetural
+
+Conteúdo: Diagramas completos da visão de negócio e arquitetura da solução
 
 
-Itens entregues:
+📊 Gestão de Testes
+Todos os casos de teste, planejamento e execução estão documentados e gerenciados através do Azure Boards.
 
-Lista dos testes planejados para as funcionalidades principais
+🔗 Acesso aos Casos de Teste:
 
-Dados de entrada controlados para cada teste
+O link completo para o Azure Boards com toda a estrutura de testes está disponível na pasta Azure.
 
-Dados de saída esperados para cada cenário
+Inclui testes manuais e automatizados das funcionalidades principais
 
-Procedimento detalhado de execução dos testes
+🚀 Como Navegar
+Desenho Técnico → Acesse a pasta Desenho Tecnico/
 
-🤖 Testes Automatizados
-Vídeo demonstrativo com 4 casos de testes automatizados implementados conforme a natureza da aplicação:
-https://drive.google.com/drive/folders/14P5i6-VwpA-CY52eJnBZFX1imLufPi4d?usp=sharing
+Casos de Teste e Vídeo dos Testes → Consulte a pasta Azure.
 
