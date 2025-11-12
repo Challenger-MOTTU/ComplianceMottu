@@ -27,3 +27,8 @@ Desenho Técnico → Acesse a pasta Desenho Tecnico/
 
 Casos de Teste e Vídeo dos Testes → Consulte a pasta Azure.
 
+**Integrantes
+Gabriel Gomes Mancera - RM: 555427
+Juliana de Andrade Sousa - RM: 558834
+Victor Hugo Carvalho Pereira - RM: 558550
+**
